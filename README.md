@@ -1,0 +1,1 @@
+Method parametre olarak aldığı verilere göre maximum elemandan küçük, minumum elemandan büyük değerler içeren ve maximum uzunluğu geçmeyen array döner.
